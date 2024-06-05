@@ -1,4 +1,5 @@
 export default function taskBlock(trueOrFalse) {
+<<<<<<< HEAD
   const task = false;
   const task2 = true;
 
